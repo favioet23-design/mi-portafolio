@@ -45,3 +45,7 @@ git push origin main
 > Documentar es parte del trabajo, no un extra al final
 
 * [Ver la Guía del Proyecto (docs/GUIA.md)](docs/GUIA.md)
+
+  ---
+### 📚 Documentación
+* [Ver la Guía del Proyecto (docs/GUIA.md)](docs/GUIA.md)
